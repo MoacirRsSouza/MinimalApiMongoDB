@@ -1,0 +1,6 @@
+@StaffMinimalApi_HostAddress = http://localhost:5226
+
+GET {{StaffMinimalApi_HostAddress}}/Staff/
+Accept: application/json
+
+###
